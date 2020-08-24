@@ -20,5 +20,17 @@
     "mongoose": "^5.10.0",
     "nodemon": "^2.0.4",
     "request": "^2.88.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cristable/Covid-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cristable/Covid-API/issues"
+  },
+  "homepage": "https://github.com/Cristable/Covid-API#readme"
 }
